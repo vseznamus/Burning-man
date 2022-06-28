@@ -1,0 +1,49 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Anton", sans-serif;
+  font-size: 16px;
+}
+.header {
+  background: url(/img/header-bg.jpg) no-repeat center top / cover;
+}
+.header__container {
+}
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+.header__nav {
+}
+.header__logo {
+  width: 31px;
+  height: 48px;
+}
+
+.header__menu {
+  display: flex;
+  font-size: 14px;
+  color: white;
+}
+.header__menu-element {
+  color: #ffffff;
+  text-transform: uppercase;
+  padding-right: 40px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+}
+.header__tel {
+  color: white;
+  text-decoration: none;
+}
+.header__offer {
+  text-transform: uppercase;
+}
+.header__lozung {
+  text-transform: uppercase;
+}
+.header__event-name {
+  text-transform: uppercase;
+}
+.header__button {
+}
